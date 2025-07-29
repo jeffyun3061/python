@@ -127,4 +127,3 @@ with tab_stock:
             else:
                 st.warning("메모 내용을 입력해주세요.")
    
-#    필기
